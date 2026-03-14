@@ -58,5 +58,5 @@ Local Storage: All PDFs and extracted text are stored locally.
 
 Git Ignored: Sensitive files like .env, node_modules, __pycache__, and *.db are protected via .gitignore to prevent accidental leaks.
 
-Developed by: Deepanshu Rana
+Developed by: Gitansh 
 
